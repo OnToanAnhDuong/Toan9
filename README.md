@@ -546,6 +546,7 @@ function checkCameraAccess() {
             Nhận xét: [Nhận xét chi tiết]
             Đề xuất cải thiện: [Các đề xuất cụ thể]
             Chú ý:
+	    - Lời giải của học sinh không liên quan đế yêu cầu của đề bài thì cho 0 điểm.
             - Điểm số phải là một số từ 0 đến 10, có thể có một chữ số thập phân.
             - Hãy đảm bảo tính chính xác và khách quan trong việc chấm điểm và nhận xét.
             - Nếu có sự không nhất quán giữa bài làm và điểm số, hãy giải thích rõ lý do.
